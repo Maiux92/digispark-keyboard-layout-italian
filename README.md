@@ -16,3 +16,13 @@ Linux:
 ```
 /home/(username)/.arduino15/packages/digistump/hardware/avr/(version)/libraries/DigisparkKeyboard/
 ```
+---
+In order to be able to send \[]{}@#, I modified the write function in DigiKeyboard.h on line 203 to send the corresponding keystroke combinations.
+
+scancode-ascii-table.h have been updated to send the correct keycode given an ASCII code.
+
+---
+
+Useful links: 
+- https://github.com/PaulStoffregen/cores/blob/master/teensy/keylayouts.h
+- http://www.asciitable.com/
