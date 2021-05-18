@@ -26,3 +26,6 @@ I also updated `scancode-ascii-table.h` so to map the correct keycodes to ASCII 
 I used these two resources: 
 - https://github.com/PaulStoffregen/cores/blob/master/teensy/keylayouts.h
 - http://www.asciitable.com/
+
+# Other languages
+- Spanish: https://github.com/Dasor/digispark-keyboard-layout-Spanish
