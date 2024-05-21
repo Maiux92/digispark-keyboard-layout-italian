@@ -29,3 +29,4 @@ I used these two resources:
 
 # Other languages
 - Spanish: https://github.com/Dasor/digispark-keyboard-layout-Spanish
+- Portuguese: https://github.com/r4p3cks/digispark-keyboard-layout-portuguese
